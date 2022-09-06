@@ -1,1 +1,1 @@
-README for shell variable expansions
+README for my shell variable expansions
